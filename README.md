@@ -39,7 +39,7 @@ I'm Arvind Nair, and I am a Software Engineer with close to 2 years of full-time
 
 ## Stats:
 
-[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=Arka161&count_private=true&theme=tokyonight&showicons=true)]()
+
 
 ## Education:
 

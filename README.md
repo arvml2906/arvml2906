@@ -34,11 +34,6 @@ I'm Arvind Nair, and I am a Software Engineer with close to 2 years of full-time
 ## Professional Experience: 
 
 
-
-## Stats:
-
-
-
 ## Education:
 
 - B.Tech. in Electrical and Electronics Engineering, Manipal Institute of Technology

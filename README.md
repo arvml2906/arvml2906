@@ -1,14 +1,12 @@
 ### Hi there 👋
 
 <p float="center">
-  <img src="![image](https://github.com/arvml2906/arvml2906/assets/139321356/ed197843-4a9c-414e-b5c0-88f7b50473cf)
-"  width="150"/>
+  <img src="![Alt text](image.png)"
+ width="150"/>
   &emsp;
-  <img src="GBL.png"  width="150"/>
+  <img src="![Alt text](image-1.png)"  width="150"/>
   &emsp;
-  <img src="AWSLogo.png"  width="150"/>
-  &emsp;
-  <img src="FTNT.png"  width="150"/>
+ 
 </p>
 
 <!--
